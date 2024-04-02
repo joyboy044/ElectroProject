@@ -1,3 +1,8 @@
+Final Project using Selenium, Java, and Cucumber
+
+
+
+
 Automation tasks:
 
 1.1 Navigate to Electro page
@@ -20,7 +25,7 @@ Automation tasks:
 2.7 Close browser
 
    
-4. Change Password
+3. Change Password
 
    
 3.1 Navigate to Electro page
